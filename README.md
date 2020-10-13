@@ -1,0 +1,2 @@
+# Fooexample
+Example of pages
